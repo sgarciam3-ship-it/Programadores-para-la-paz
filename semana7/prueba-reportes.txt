@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes registrados. Cada vez que se envía un nuevo reporte mediante la ruta POST, este se agrega al arreglo y aparece cuando se vuelve a consultar la lista.
